@@ -14,3 +14,6 @@ Website:-
 * Can add Numbers in the password.
 * Can add Characters in the password.
 * Can Copy the generated password.
+
+## Preview
+
